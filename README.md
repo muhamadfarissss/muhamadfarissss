@@ -1,6 +1,6 @@
-<p align="center">
-# 👋 Hi, I'm Faris  
-</p>
+<h1 align="center">
+👋 Hi, I'm Faris  
+</h1>
 ---
 
 ## 🚀 About Me  
