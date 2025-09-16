@@ -1,5 +1,6 @@
+<p align="center">
 # 👋 Hi, I'm Faris  
-
+</p>
 ---
 
 ## 🚀 About Me  
