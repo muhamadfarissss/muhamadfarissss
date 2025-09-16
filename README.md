@@ -1,8 +1,6 @@
 <h1 align="center">
 👋 Hi, I'm Faris  
 </h1>
----
-
 ## 🚀 About Me  
 - 🎓 Software Engineering Enthusiast  
 - 🌍 Based in Indonesia  
