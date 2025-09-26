@@ -5,7 +5,7 @@
 ## 🚀 About Me  
 - 🎓 Software Engineering Enthusiast  
 - 🌍 Based in Indonesia  
-- 🎯 Focus: Web Development & Problem Solving
+- 🎯 Focus: Web Development 
 
 ---
 
@@ -30,13 +30,4 @@
 - ⚡ React & Next.js  
 - 📱 Mobile Dev (Flutter)    
 
----
 
-## 💡 Motto
-> *"Belajar dari kemarin, hidup untuk hari ini, berharap untuk hari esok."*  
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif" width="300">
-</p>
